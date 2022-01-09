@@ -2,10 +2,10 @@
 Aquarium Automation device for small scale home held aquariums that automates most of human interaction needed functions.  
    
 ### Group Members:
-    IT19993416 - P.M. Ratnayake
-    IT19965000 - P.R.G.H.H. Bandara
-    IT19990446 - P.L.J.O. Cooray
-    IT19985428 - K.D.M.M. Rathnasiri
+    IT19227214 - W. T. S. Rabel
+    IT19952130 - C. N. W. Namasingha
+    IT19195612 - S. Y. O. N. Ananda
+    IT19193182 - H. A. R. Manoramya
  
 
 
