@@ -19,9 +19,6 @@ Aquarium Automation device for small scale home held aquariums that automates mo
 + Remote Controlling – Direct and distance connecting connectivity to mobile application.
 
 
-
-
-
 ### System Overwiew Diagram:
 ![image](https://user-images.githubusercontent.com/97085704/148671905-236b0494-d2a0-4282-844f-14a0d7d2ae59.png)
 
