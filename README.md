@@ -6,17 +6,24 @@ Aquarium Automation device for small scale home held aquariums that automates mo
     IT19952130 - C. N. W. Namasingha
     IT19195612 - S. Y. O. N. Ananda
     IT19193182 - H. A. R. Manoramya
- 
-
-
 
 ![image](https://user-images.githubusercontent.com/97085704/148671520-e95c027e-7d62-450e-81ab-2a9800a132cb.png)
 
+1. First ordered list item
+2. Another item
+⋅⋅* Unordered sub-list. 
+1. Actual numbers don't matter, just that it's a number
+⋅⋅1. Ordered sub-list
+4. And another item.
 
+⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
 
-### H3
-#### H4
-##### H5
-###### H6
+⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
+⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
+⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
+
+* Unordered list can use asterisks
+- Or minuses
++ Or pluses
 
 
