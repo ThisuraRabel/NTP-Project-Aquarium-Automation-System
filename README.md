@@ -10,6 +10,8 @@ Aquarium Automation device for small scale home held aquariums that automates mo
 
 
 
+![image](https://user-images.githubusercontent.com/97085704/148671520-e95c027e-7d62-450e-81ab-2a9800a132cb.png)
+
 
 
 ### H3
