@@ -18,6 +18,9 @@ Aquarium Automation device for small scale home held aquariums that automates mo
 + Alert Mechanism – Sound alert, On system display alert, Mobile application alert, SMS alert. 
 + Remote Controlling – Direct and distance connecting connectivity to mobile application.
 
+### System Overwiew Diagram:
+
+![image](https://user-images.githubusercontent.com/97085704/148671731-3219b16e-588d-4b95-8df8-12a0936ae32e.png)
 
 
 
