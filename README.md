@@ -24,10 +24,10 @@ Aquarium Automation device for small scale home held aquariums that automates mo
 
 ### Project Documents:
   + [Project topic assesment](https://mega.nz/file/M8kSAKyQ#24W1unh7DHI3zmpXD4OB0nN8M8wNeR64KOiXw-A7mow)
-  [Proect Proposal](https://mega.nz/file/Et10SSCQ#weO-OSfJux-HMYePt2gXgmOA3D7kWeCPta03vywPnaY)
-  [Weekly Evaluations](https://mega.nz/folder/l11iDYRI#L-0wK49o4ArzxrDgAmZXZA)
-  [SRS ](https://mega.nz/file/1x9gQChS#dH0baMpAWX-w6Ff_5a0Pl5v9nMW7XaANLgZXq9XYBrw)
-  [Reseach Paper](https://mega.nz/file/FsswSCKa#IDiyt1Ne6aZLO1V8RhH2gqsT9VWtS3a8-lQWlSbXTSQ)
-  [Final Report](https://mega.nz/file/9hlA1S7C#_P4hWn-xOQ4_G3CJ_dY8iyBGov6RSwiP9mkta00lX20)
+  + [Proect Proposal](https://mega.nz/file/Et10SSCQ#weO-OSfJux-HMYePt2gXgmOA3D7kWeCPta03vywPnaY)
+  + [Weekly Evaluations](https://mega.nz/folder/l11iDYRI#L-0wK49o4ArzxrDgAmZXZA)
+  + [SRS ](https://mega.nz/file/1x9gQChS#dH0baMpAWX-w6Ff_5a0Pl5v9nMW7XaANLgZXq9XYBrw)
+  + [Reseach Paper](https://mega.nz/file/FsswSCKa#IDiyt1Ne6aZLO1V8RhH2gqsT9VWtS3a8-lQWlSbXTSQ)
+  + [Final Report](https://mega.nz/file/9hlA1S7C#_P4hWn-xOQ4_G3CJ_dY8iyBGov6RSwiP9mkta00lX20)
 
 
