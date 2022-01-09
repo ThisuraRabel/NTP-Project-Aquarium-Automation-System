@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "455780450134",
+    "firebase_url": "https://samms-ab9b9-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "samms-ab9b9",
+    "storage_bucket": "samms-ab9b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455780450134:android:a392c456e098b7e7eba0f7",
+        "android_client_info": {
+          "package_name": "com.example.smartaquamainsys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455780450134-60h36ii1tntvpuf69f0t3vj3oklf1tdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAM_y8F2ippt0F_H9zQjYq7oVub3Gciy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455780450134-60h36ii1tntvpuf69f0t3vj3oklf1tdr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
