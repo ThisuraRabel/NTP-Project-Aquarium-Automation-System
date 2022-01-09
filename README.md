@@ -25,4 +25,4 @@ Aquarium Automation device for small scale home held aquariums that automates mo
 ### Project Documents:
 [I'm an inline-style link](https://www.google.com)
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 100")
+
